@@ -5,4 +5,5 @@
    * [Lahendamist vajavad probleemid](lahendamist_vajavad_probleemid.md)
    * [Visioon ja eesmärgid](visioon_ja_eesmargid.md)
    * [Meetmed eesmärkide saavutamiseks](meetmed_eesmarkide_saavutamiseks.md)
+   * [Sõnastik](GLOSSARY.md)
 
