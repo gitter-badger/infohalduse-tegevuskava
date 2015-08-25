@@ -1,0 +1,5 @@
+# Glossary
+
+## KVR
+
+Riigi kinnisvararegister
