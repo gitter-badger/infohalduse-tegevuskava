@@ -1,4 +1,4 @@
-# Summary
+# Sisukord
 
 * [Projektist](README.md)
 * [Riigi kinnisvara infohalduse tegevuskava](riigi_kinnisvara_infohalduse_tegevuskava.md)
