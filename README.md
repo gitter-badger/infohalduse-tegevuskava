@@ -1,5 +1,7 @@
 ## Projektist
 
+[![Join the chat at https://gitter.im/kinnisvara/infohalduse-tegevuskava](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kinnisvara/infohalduse-tegevuskava?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Riigi kinnisvaravaldkonna infohalduse tegevuskava koostamise aluseks on strateegia "[Lihtsam riik 2020](https://www.mkm.ee/sites/default/files/lihtsam_riik_2020.pdf)".
 
 ### Võimalused osalemiseks
