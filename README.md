@@ -9,6 +9,8 @@ Tegevuskava koostamises saab osaleda järgmiselt:
 * [projekti tegevustes kaasalöömine](https://github.com/kinnisvara/infohalduse-tegevuskava/issues/3)
 * [ideede, probleemide, ettepanekute esitamine ja aruteludes osalemine](https://github.com/kinnisvara/infohalduse-tegevuskava/issues)
 
-Projekti staatus | Kontakt
+Projektihaldus toimub Github keskkonnas, osalemiseks tuleb registreerida Github'i kasutajaks.
+
+Projekti staatus | Kontakt ja abi
 ---------------- | -------------
 kavandamine      | tormi.tabor@fin.ee
