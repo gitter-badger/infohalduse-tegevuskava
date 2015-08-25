@@ -5,10 +5,9 @@ Riigi kinnisvara infohalduse tegevuskava koostamise aluseks on strateegia "[Liht
 ### Võimalused osalemiseks
 
 Tegevuskava koostamises saab osaleda järgmiselt:
-* [tegevuskava eelnõu](https://www.gitbook.com/book/kinnisvara/infohalduse-tegevuskava/details)
-* [Ideede, probleemide, ettepanekute arutelu](https://github.com/kinnisvara/infohalduse-tegevuskava/issues), sh
- * [tegevuskava ülesehitus](https://github.com/kinnisvara/infohalduse-tegevuskava/issues/1)
- * [lahendamist vajavad probleemid](https://github.com/kinnisvara/infohalduse-tegevuskava/issues/2)
+* [tegevuskava eelnõuga tutvumine](https://www.gitbook.com/book/kinnisvara/infohalduse-tegevuskava/details)
+* [tegevuskava projekti tegevustes kaasalöömine](https://github.com/kinnisvara/infohalduse-tegevuskava/issues/3)
+* [ideede, probleemide, ettepanekute esitamine ja aruteludes kaasalöömine](https://github.com/kinnisvara/infohalduse-tegevuskava/issues)
 
 Projekti staatus | Kontakt
 ---------------- | -------------
