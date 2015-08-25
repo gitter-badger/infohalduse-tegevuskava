@@ -1,6 +1,6 @@
 ## Projektist
 
-Riigi kinnisvara infohalduse tegevuskava koostamise aluseks on strateegia "[Lihtsam riik 2020](https://www.mkm.ee/sites/default/files/lihtsam_riik_2020.pdf)".
+Riigi kinnisvaravaldkonna infohalduse tegevuskava koostamise aluseks on strateegia "[Lihtsam riik 2020](https://www.mkm.ee/sites/default/files/lihtsam_riik_2020.pdf)".
 
 ### Võimalused osalemiseks
 
